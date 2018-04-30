@@ -1,5 +1,5 @@
 {
-  "title": "AprilTags",
+  "title": "AprilNav",
   "icon": "TestIcon.icns",
   "background": "TestBkg.png",
     "window":{
@@ -7,6 +7,6 @@
     },
   "contents": [
     { "x": 457, "y": 344, "type": "link", "path": "/Applications" },
-    { "x": 190, "y": 344, "type": "file", "path": "AprilTags" }
+    { "x": 190, "y": 344, "type": "file", "path": "TestApp" }
   ]
 }
